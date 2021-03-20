@@ -1,0 +1,27 @@
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;
+    text-align: center;
+    }
+
+    .Encabezado {
+        background: #b204b8;
+        margin: auto;
+        text-align: center;
+        padding-top: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: large;
+    }
+
+        .Enfermedades {
+            background:#b204b8;
+            text-align: center;
+        }
+
+        .Que_es {
+            background:#b204b8;
+        }
+
+
+    
